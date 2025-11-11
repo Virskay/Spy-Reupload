@@ -20,7 +20,7 @@
 --// File handling configuration 
 local FilesConfig = {
 	UseWorkspace = false,
-	RepoUrl = "https://raw.githubusercontent.com/boowoompTheOffical/Sigma-Spy-Reuploaded/refs/heads/main" -- "http://127.0.0.1:3000"
+	RepoUrl = "https://raw.githubusercontent.com/Virskay/Spy-Reupload/refs/heads/main/Main.lua" -- "http://127.0.0.1:3000"
 }
 
 --// Service handlers
