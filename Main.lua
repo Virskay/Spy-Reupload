@@ -20,7 +20,7 @@
 --// File handling configuration 
 local FilesConfig = {
 	UseWorkspace = false,
-	RepoUrl = "https://raw.githubusercontent.com/Virskay/Spy-Reupload" -- "http://127.0.0.1:3000"
+	RepoUrl = "https://raw.githubusercontent.com/Virskay/Spy-Reupload/Main.lua" -- "http://127.0.0.1:3000"
 }
 
 --// Service handlers
